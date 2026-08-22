@@ -1,25 +1,25 @@
 # Privacy Policy for Compass Bot
 
-**Last Updated:** June 12, 2026
+**Last Updated:** August 23, 2026
 
 ## 1. Data Collection
 
-Compass Bot only accesses messages from specifically designated public announcement channels (such as `#changelog` and `#version`) within the official florr.io Discord server.
+Compass Bot only accesses messages from specifically designated public announcement channels (such as `#changelog`, `#version`, `#game`, `#game-cn`, and `#shop`) within the official florr.io Discord server.
 
 Compass Bot does not have permission to view general user chat channels and therefore does not read, collect, or store private messages, personal conversations, or other user-generated content outside the designated announcement channels.
 
 ## 2. Data Usage and Storage
 
-Public announcements retrieved from the designated channels are forwarded to:
+Public announcements retrieved from the designated channels are processed in real-time and forwarded to:
 
-* The Compass website: https://compass.betterflorr.top/
-* Other synchronized Discord servers that subscribe to these updates
+* Other synchronized Discord servers that subscribe to these updates.
+* Connected community communication platforms (specifically Tencent QQ groups via bridging plugins) to keep players updated.
 
-The website retains only the most recent 100 public announcements for display purposes. Older announcements may be automatically removed from storage.
+The bot only processes these messages for instantaneous forwarding. No message content is permanently stored, cached, or archived on any long-term off-platform databases by Compass Bot.
 
 ## 3. AI and Machine Learning
 
-Content processed by Compass Bot is used solely for announcement synchronization and display.
+Content processed by Compass Bot is used solely for announcement synchronization and real-time broadcasting.
 
 No message content is used to train artificial intelligence systems, machine learning models, or similar technologies.
 
